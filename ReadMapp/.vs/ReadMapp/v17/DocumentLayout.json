@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\hdd\\Okan\\1. Y\u0131l\\2. Yar\u0131y\u0131l\\Algoritma Uygulamalar\u0131\\ReadMapp  Kitap Takip Program\u0131\\ReadMapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE86F08-123C-43D7-AC5F-168BC536DC1C}|ReadMapp\\ReadMapp.csproj|d:\\hdd\\okan\\1. y\u0131l\\2. yar\u0131y\u0131l\\algoritma uygulamalar\u0131\\readmapp  kitap takip program\u0131\\readmapp\\readmapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDE86F08-123C-43D7-AC5F-168BC536DC1C}|ReadMapp\\ReadMapp.csproj|solutionrelative:readmapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\hdd\\Okan\\1. Y\u0131l\\2. Yar\u0131y\u0131l\\Algoritma Uygulamalar\u0131\\ReadMapp  Kitap Takip Program\u0131\\ReadMapp\\ReadMapp\\Form1.cs",
+              "RelativeDocumentMoniker": "ReadMapp\\Form1.cs",
+              "ToolTip": "D:\\hdd\\Okan\\1. Y\u0131l\\2. Yar\u0131y\u0131l\\Algoritma Uygulamalar\u0131\\ReadMapp  Kitap Takip Program\u0131\\ReadMapp\\ReadMapp\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ReadMapp\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T21:02:15.958Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
